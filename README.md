@@ -1,0 +1,1 @@
+# QAmanual_portfolio
