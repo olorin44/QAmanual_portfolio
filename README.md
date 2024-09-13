@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+I'm a positive-minded guy, with many technical skills. I am very motivated to become QA.
 ## TOOLS
 * Jira
 * TestLink
